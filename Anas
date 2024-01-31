@@ -1,7 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="438" ghttps://d39q.short.gy/TPvideoroup-title="Anas" tvg-language="Tamil" tvg-logo="https://d39q.short.gy/TP",Anas
  
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d39q.short.gy/TP" group-title="Anas",Anas
+https://d39q.short.gy/TPvideo
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
 https://denver1769.in/tptv.php?id=12154
@@ -22,27 +25,18 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=114
-
 #EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" group-title="Denver KIDS PACK",Disney
-
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=119
-
 #EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Denver KIDS PACK",Discovery Kids
-
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
 
 
-
 #EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV
-
 https://kingkohli.pages.dev/Play/Kid/HungamaTV.m3u8
 
 
@@ -421,5 +415,6 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=1033
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
 
 
