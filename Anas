@@ -25,18 +25,27 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=114
+
 #EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" group-title="Denver KIDS PACK",Disney
+
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=119
+
 #EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Denver KIDS PACK",Discovery Kids
+
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
 
 
+
 #EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV
+
 https://kingkohli.pages.dev/Play/Kid/HungamaTV.m3u8
 
 
@@ -415,6 +424,166 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=1033
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="None",Sports 18 - 1 HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=174
+#EXTINF:-1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies",Romedy Now
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=562
+#EXTINF:-1 tvg-id="ts562" tvg-logo="https://tatalogo.pages.dev/562.png" group-title="Movies",Movies Now HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=605
+#EXTINF:-1 tvg-id="ts605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="Knowledge",National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=413
+#EXTINF:-1 tvg-id="ts413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Knowledge",Nat Geo Wild HD
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=137
+#EXTINF:-1 tvg-id="ts137" tvg-logo="https://tatalogo.pages.dev/137.png" group-title="Knowledge",National Geographic
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=184
+#EXTINF:-1 tvg-id="ts184" tvg-logo="https://tatalogo.pages.dev/184.png" group-title="Knowledge",Nat Geo Wild
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=287
+#EXTINF:-1 tvg-id="ts287" tvg-logo="https://tatalogo.pages.dev/287.png" group-title="Knowledge",Animal Planet HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=113
+#EXTINF:-1 tvg-id="ts113" tvg-logo="https://tatalogo.pages.dev/113.png" group-title="Knowledge",Discovery Science
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=341
+#EXTINF:-1 tvg-id="ts341" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="Knowledge",Discovery HD World
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=172
+#EXTINF:-1 tvg-id="ts172" tvg-logo="https://tatalogo.pages.dev/172.png" group-title="Knowledge",History TV18
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=616
+#EXTINF:-1 tvg-id="ts616" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="Knowledge",History TV18 HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=130
+#EXTINF:-1 tvg-id="ts130" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Knowledge",Animal Planet
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=219
+#EXTINF:-1 tvg-id="ts219" tvg-logo="https://tatalogo.pages.dev/219.png" group-title="Knowledge",Discovery Channel
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=367
+#EXTINF:-1 tvg-id="ts367" tvg-logo="https://tatalogo.pages.dev/367.png" group-title="Lifestyle",FOX Life HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=681
+#EXTINF:-1 tvg-id="ts681" tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids",Cartoon Network HD+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=238
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids",Cartoon Network
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=626
+#EXTINF:-1 tvg-id="ts626" tvg-logo="https://tatalogo.pages.dev/626.png" group-title="Kids",Tata Play Fun Learn Preschool
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=119
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=239
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids",Pogo
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=127
+#EXTINF:-1 tvg-id="ts127" tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids",Sonic Nickelodeon
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=994
+#EXTINF:-1 tvg-id="ts994" tvg-logo="https://tatalogo.pages.dev/994.png" group-title="None",Tata Play Toons+
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=45
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids",SONY YAY!
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=867
+#EXTINF:-1 tvg-id="ts867" tvg-logo="https://tatalogo.pages.dev/867.png" group-title="Kids",Gubbare
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=905
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://tatalogo.pages.dev/905.png" group-title="Kids",ETV Bal Bharat
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=118
+#EXTINF:-1 tvg-id="ts118" tvg-logo="https://tatalogo.pages.dev/118.png" group-title="Kids",Nick Jr
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
+
+
+
 
 
 
