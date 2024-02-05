@@ -1,3 +1,14 @@
+<html>
+	<head>
+	<title>ANAS M3U </title>
+		<script>
+			window.location.replace("https://t.me/Mohammedanas12");
+		</script>
+	</head>
+</html>
+
+
+
 #EXTM3U
  
 
@@ -25,27 +36,18 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=114
-
 #EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg" group-title="Denver KIDS PACK",Disney
-
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=119
-
 #EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU" group-title="Denver KIDS PACK",Discovery Kids
-
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
 
 
-
 #EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama TV
-
 https://kingkohli.pages.dev/Play/Kid/HungamaTV.m3u8
 
 
@@ -584,6 +586,186 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifes
 
 
 
+#EXTINF:-1 tvg-id="1033" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD 4K https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8 
 
 
 
+#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports",Sports18 1SD https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",SPORTS 18 Khel https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/05fn0Q01/Screenshot-2024-01-21-16-39-47-85-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",ESPN 2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/L5bZQrsL/Screenshot-2024-01-21-16-40-16-26-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",ESPN 3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+
+#EXTINF: -1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+
+#EXTINF: -1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+
+#EXTINF: -1 tvg-id="1772" tvg-logo="https://i.ibb.co/Trp886Q/IMG-20221226-201038.jpg" group-title="Sports",SONY TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+
+#EXTINF: -1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+#EXTINF: -1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",SONY TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+
+#EXTINF: -1 tvg-id="523" tvg-logo="https://i.ibb.co/9nvSRSJ/IMG-20221226-195730.jpg" group-title="Sports",SONY TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+
+#EXTINF: -1 tvg-id="524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",SONY TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+
+#EXTINF: -1 tvg-id="1773" tvg-logo="https://i.ibb.co/n3d6K1z/IMG-20221226-200505.jpg" group-title="Sports",SONY TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+
+
+#EXTINF: -1 tvg-id="525" tvg-logo="https://i.ibb.co/587Kn5S/IMG-20221226-201410.png" group-title="Sports",SONY 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Key.php?id=812
+#EXTINF:-1 tvg-id="ts812" tvg-logo="https://i.postimg.cc/L5vQY5Mt/14-Eurosport-HD.png" group-title="Sports",Eurosport HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Portal", Astro Cricket [ Alpha ]
+https://kingkohli.pages.dev/Play/Astro_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Portal", Astro Cricket FHD [ Watch ]
+https://kingkohli.pages.dev/Play/AstroFHD_Watch_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Portal", Astro Cricket HD [ Watch ]
+https://kingkohli.pages.dev/Play/AstroSD_Watch_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Portal", Astro Cricket HD [ King ]
+https://kingkohli.pages.dev/Play/Astro_king_index.m3u8
+
+
+
+#EXTINF:-1 group-title="Portal" tvg-chno="" tvg-id="" tvg-logo="https://i.postimg.cc/43VQjp0K/Screenshot-2024-01-16-00-42-25-80-1c337646f29875672b5a61192b9010f9.jpg",Fox Cricket [ King ]
+https://kingkohli.pages.dev/Play/Fox_king_index.m3u8
+
+
+
+#EXTINF:-1 group-title="Portal" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket HD [ Alpha ]
+https://kingkohli.pages.dev/Play/Sky_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 group-title="Portal" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket SD  [ Watch ]
+https://kingkohli.pages.dev/Play/SkySD_Watch_index.m3u8
+
+
+
+#EXTINF:-1 group-title="Portal" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket HD [ Watch ]
+https://kingkohli.pages.dev/Play/SkyHD_Watch_index.m3u8
+
+
+
+#EXTINF:-1 group-title="Portal" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket FHD [ Watch ]
+https://kingkohli.pages.dev/Play/SkyFHD_Watch_index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ts78" group-title="Portal" tvg-name="Star Sports 1 HD"  tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg",Star Sports 1 FHD [ Alpha ]
+https://kingkohli.pages.dev/Play/Sports1FHD_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts78" group-title="Portal" tvg-name="Star Sports 1 HD"  tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg",Star Sports 1 HD [ Alpha ]
+https://kingkohli.pages.dev/Play/Sports1HD_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts78" group-title="Portal" tvg-name="Star Sports 1 HD"  tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg",Star Sports 1 HD [ Watch ]
+https://kingkohli.pages.dev/Play/Sports1HD_Watch_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts78" group-title="Portal" tvg-name="Star Sports 1 HD"  tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg",Star Sports 1 FHD [ Watch ]
+https://kingkohli.pages.dev/Play/Sports1FHD_Watch_index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ts78" group-title="Portal" tvg-name="Star Sports 1 HD"  tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg",Star Sports 1 [ King ]
+https://kingkohli.pages.dev/Play/SportsENG_king_index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Portal" tvg-logo="https://i.postimg.cc/SKtbBHts/image.png",Star Sports 1 Hindi SD [ Alpha ]
+https://kingkohli.pages.dev/Play/SportsHIN_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Portal" tvg-logo="https://i.postimg.cc/SKtbBHts/image.png",Star Sports 1 Hindi HD [ Alpha ]
+https://kingkohli.pages.dev/Play/SportsHIN_HD_Alpha_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Portal" tvg-logo="https://i.postimg.cc/SKtbBHts/image.png",Star Sports 1 Hindi FHD [ Alpha ]
+https://kingkohli.pages.dev/Play/SportsHIN_FHD_Alpha_index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Cx35fPgz/Screenshot-2024-01-16-01-01-17-59-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Portal",Star Sports Tamil [ Watch ]
+https://kingkohli.pages.dev/Play/Tamil_Watch_index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Cx35fPgz/Screenshot-2024-01-16-01-01-17-59-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="Portal",Star Sports Tamil [ TP.TV ]
+http://itspkg.in/ttv/play.php?tv=12070
+
+
+
+
+#EXTINF:-1 tvg-id="ts24" group-title="Portal" tvg-logo="https://i.postimg.cc/SKtbBHts/image.png",Star Sports 1 Hindi HD [ King ] https://kingkohli.pages.dev/Play/SportsHin_king_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ts235" group-title="Portal" tvg-logo="https://i.postimg.cc/hPn1BvmJ/image.jpg",Star Sports 2 [ King ] https://kingkohli.pages.dev/Play/Sports2_king_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Portal" tvg-name="Star Sports 3" Star Sports 3 [ King ] https://kingkohli.pages.dev/Play/Sports3_king_index.m3u8
