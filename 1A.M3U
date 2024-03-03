@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="842" tvg-logo="https://d39q.short.gy/TP" group-title="Anas",Anas
 https://mdas109.github.io/Discoverykids.m3u8/Anas1.mp4
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
+https://mdas109.github.io/1Anas/Starsports1tamil.M3U8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
 http://testing.denver1769.in/benj.php?id=506
 
@@ -22,6 +26,16 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCPOPywZgYSf2D8NQpyflCIPT-nWxYlEx_Q&amp;usqp=CAU" ,STAR SPORTS TAMIL FHD BACKUP JOIN TELEGRAM @https://t.me/Mohammedanas12
+
+https://its-aadi.000webhostapp.com/sony.php?aadi=9722
+        
+        
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCPOPywZgYSf2D8NQpyflCIPT-nWxYlEx_Q&amp;usqp=CAU" ,STAR SPORTS TAMIL FHD JOIN TELEGRAM @https://t.me/Mohammedanas12
+
+http://xtv.ooo:8080/live/33232399/55667788/167574.m3u8
 
  
 #EXTINF:-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Tamil", Star sports 1 tamil HD
@@ -52,6 +66,9 @@ https://mdas109.github.io/Discoverykids.m3u8/Dis.m3u8
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/52.png" group-title="Entertainment",Colors HD 
 http://148.113.5.31:8106/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=998
  
 
 EXTINF:-tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
@@ -66,6 +83,8 @@ http://xtv.ooo:8080/live/3848678968/400450506969/150480.ts
 #EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", Hungama Anas
 https://testing.denver1769.in/Share.php?id=66162&token=Ezzy.m3u8|User-Agent=STARSHAREPlayer
 
+#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Denver KIDS PACK",Hungama Tamil
+https://testing.denver1769.in/Share.php?id=66162&token=Ezzy.m3u8|User-Agent=STARSHAREPlayer
 
 
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News",Mathrubhumi News (1080p) [Not 24/7]
