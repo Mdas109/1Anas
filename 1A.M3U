@@ -8,6 +8,10 @@ https://mdas109.github.io/Discoverykids.m3u8/Anas1.mp4
 https://mdas109.github.io/1Anas/Starsports1tamil.M3U8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
+https://testing.denver1769.in/Share.php?id=9722&token=.m3u8|User-Agent=STARSHAREPlayer
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
 http://testing.denver1769.in/benj.php?id=506
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas
@@ -105,10 +109,10 @@ https://rftv.wtf/tp/tplay.mpd?contentID=496
 https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=521
-#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
-https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=521&key
+#EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tata Sky",Sun TV HD
+https://rftv.wtf/tp/tplay.mpd?contentID=521
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
