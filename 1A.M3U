@@ -31,6 +31,11 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 SD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=78
+#EXTINF:-1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+http://Supersonictv.live:8080/live/685034/245521/85564.m3u8
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCPOPywZgYSf2D8NQpyflCIPT-nWxYlEx_Q&amp;usqp=CAU" ,STAR SPORTS TAMIL FHD BACKUP JOIN TELEGRAM @https://t.me/Mohammedanas12
 
