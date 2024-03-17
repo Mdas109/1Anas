@@ -557,6 +557,9 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manife
 #EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
 
+#EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
+https://mdas109.github.io/1Anas/Distamil.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=905
