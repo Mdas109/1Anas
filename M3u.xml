@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+    <title>4-Hour Video</title>
+    <duration>14400</duration> <!-- Duration in seconds (4 hours = 14400 seconds) -->
+    <playlist>
+        <url>https://vsd152.mycdn.me/hls/6112717572645.m3u8/sig/porYA3dEMqo/expires/1711215308159/srcIp/152.58.198.244/urls/185.226.53.57/clientType/36/srcAg/CHROME_ANDROID/mid/7548192180005/video.m3u8?p</url> <!-- URL to the M3U8 playlist file -->
+    </playlist>
+</video>
