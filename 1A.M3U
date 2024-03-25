@@ -16,7 +16,9 @@ https://vsd92.mycdn.me/hls/6106478676486.m3u8/sig/b59JyR2lFW8/expires/1711451328
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Sports",Star Sports Tamil Anas Nor
 https://vsd94.mycdn.me/hls/6138240436773.m3u8/sig/WgzuEy7aMOY/expires/1711450398949/srcIp/117.209.143.191/urls/45.136.22.90/clientType/36/srcAg/CHROME_ANDROID/mid/7564626446117/video.m3u8?p
- 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N7ZkK1s/star-tamil.png" group-title="Regional Tamil",Star Sports 1 Tamil (Worldwide)
+http://testing.denver1769.in/Ply/51.php?id=9693
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/ind_vs_eng_test_today_series_preview_carousel-1706121361609.jpg" group-title="Sports",IND vs ENG live 4K Tamil Live
 http://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test04day03250224/master.m3u8
