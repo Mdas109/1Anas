@@ -121,6 +121,23 @@ KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tata Sky",Sun TV HD
 https://rftv.wtf/tp/tplay.mpd?contentID=521
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tR6BhLgv/250x375-Sun-Music-HD-9013-a1f6d6ac-015b-4e0f-b756-bc331824e590-modified.png" group-title="Regional Tamil",Sun Music HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+https://bq32.short.gy/sso?id=7896
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regional Tamil",Vijay Music HD
+http://testing.denver1769.in/Ply/ulpl.php?id=5402
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9CqvBX/unnamed-modified.png" group-title="Regional Tamil",Adithya TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=474
@@ -603,3 +620,23 @@ https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manif
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=816
 #EXTINF:-1 tvg-id="816" tvg-logo="https://tatalogo.pages.dev/816.png" group-title="Kids",CBeeBies
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network Multi Audio
+http://103.131.214.129:9985/stream/channelid/1343860419.ts?ticket=385181981824C20C25624C5888D7E9CA43B80852&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Multi Audio
+http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://i.ibb.co/bg33hHS/download.png",Hungama Multi Audio
+http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Discovery Kids Multi Audio
+http://103.131.214.129:9985/stream/channelid/1666515958.ts?ticket=ADB7529A58A8C25B5FD6FD9B5FE26806CC0184B0&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Nickelodeon+ Multi Audio
+http://103.131.214.129:9985/stream/channelid/114851840.ts?ticket=0882A6C55D9BFDF3FD8F082A47C7DDAAE7EF4EF8&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Nick Multi Audio
+http://103.131.214.129:9985/stream/channelid/1425054071.ts?ticket=1AC802617A14321C5E932839ABCF6C2901EDDFEF&profile=pass
