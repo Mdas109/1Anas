@@ -419,7 +419,12 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=78&key
 #EXTINF:-1 tvg-id=ts78 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Tata Sky",Star Sports 1 HD
-https://rftv.wtf/tp/tplay.mpd?contentID=78?begin=20240116T060000&end=20240124T060000
+https://rftv.wtf/tp/tplay.mpd?contentID=78
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=78&key
+#EXTINF:-1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+https://rftv.wtf/tp/tplay.mpd?contentID=78?begin=20240312T060000&end=20240320T060000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=235&key
