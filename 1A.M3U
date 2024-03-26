@@ -54,6 +54,12 @@ http://testing.denver1769.in/Ply/51.php?id=9693
 
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowerstvg-logo="https://tatalogo.pages.dev/10.png" group-title="Malayalam",Flowers
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=114
+#EXTINF:-1 tvg-id="114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",Disney
+https://mdas109.github.io/1Anas/Disney.m3u8
  
 #EXTINF:-tvg-logo="https://tatalogo.pages.dev/521.png"group-title="Tamil",Sun TV SD
 https://ctrl.laotv.la/live/SunTV/index.m3u8
